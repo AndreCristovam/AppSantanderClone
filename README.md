@@ -1,5 +1,5 @@
-# AppCloneSantanderDevWeek
-App criado para fins didáticos para a semana SantanderDevWeek
+# AppCloneSantanderDevWeek - Digital Innovation One
+App criado para fins didáticos para a semana SantanderDevWeek realizada pela Digital Innovation One
 
 A proposta inicial era criar a tela de usuário e integrar o Firebase, porém, acrescentei a SplashScreen, TelaInicial, LoginUsuario.
 OS botões funcionais são os que levam para tela seguinte e o Back da ToolBar, para assim, iniciar uma sequência lógica funcional.
