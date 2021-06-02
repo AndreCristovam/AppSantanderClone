@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CloneAppSantander</string>
+    <string name="txt_saldo_disponivel">Saldo disponivel</string>
+    <string name="txt_saldo_limite">Saldo + Limite:</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_recarga">Recarga</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_cart_o_final">Cartão Final</string>
+    <string name="txt_atendimento">Atendimento</string>
+    <string name="txt_id_santander">ID_Santander</string>
+    <string name="txt_acessar_sua_conta">Acessar sua conta</string>
+    <string name="txt_pagar_ou_cobrar">Pagar ou Cobrar</string>
+    <string name="txt_cpf">CPF</string>
+    <string name="txt_lembrar_meu_nome">Lembrar meu nome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_nome">Nome</string>
+
+</resources>
